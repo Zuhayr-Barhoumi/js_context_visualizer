@@ -64,5 +64,5 @@ Contributions are welcome!  Please open an issue or submit a pull request.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/Zuhayr-Barhoumi/js_context_visualizer/blob/main/LICENSE)
 ```
