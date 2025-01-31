@@ -1,0 +1,20 @@
+{
+  "name": "js_context_visualizer",
+  "version": "1.0.0",
+  "description": "```markdown # JS Context Visualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuhayr-Barhoumi/js_context_visualizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zuhayr-Barhoumi/js_context_visualizer/issues"
+  },
+  "homepage": "https://github.com/Zuhayr-Barhoumi/js_context_visualizer#readme"
+}
