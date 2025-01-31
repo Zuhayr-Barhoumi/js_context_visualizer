@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Zuhayr-Barhoumi/js_context_visualizer/issues"
   },
-  "homepage": "https://github.com/Zuhayr-Barhoumi/js_context_visualizer#readme"
+  "homepage": "https://github.com/Zuhayr-Barhoumi/js_context_visualizer#readme",
+  "devDependencies": {
+    "esbuild": "^0.24.2"
+  }
 }
